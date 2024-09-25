@@ -1,3 +1,3 @@
 ﻿namespace MTScheduleRedelivery;
 
-public record TestEvent(string Name);
+public record TestMessage(int Identifier);
