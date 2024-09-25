@@ -1,0 +1,6 @@
+@MTScheduleRedelivery_HostAddress = http://localhost:5083
+
+GET {{MTScheduleRedelivery_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
